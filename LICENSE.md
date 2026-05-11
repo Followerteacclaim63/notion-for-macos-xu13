@@ -1,4 +1,4 @@
-#  
+#  Enhance Notion for macOS with Notion for macOS automatic Macro: widgets & offline access, the #1 macro. Includes widgets and offline access for a smoother experience.
 
 
 
